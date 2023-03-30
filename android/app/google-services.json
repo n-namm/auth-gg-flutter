@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40391357575",
+    "project_id": "uda-nam-auth-goo",
+    "storage_bucket": "uda-nam-auth-goo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40391357575:android:7165a3950458df1ec1f422",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase_google_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40391357575-m35c7cneuh0l2b35g40r30h5cu611bem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKUj89rrHPGKrKG7NFREhPB3oCwYXNNI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40391357575-m35c7cneuh0l2b35g40r30h5cu611bem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
